@@ -2,7 +2,9 @@
 
 Never miss the lowest prices of your favorite products again.
 
-
+-Prerequisite 
+    `sudo pip install BeautifulSoup4`
+ 
 - For help:
 
     `python start.py -h`
